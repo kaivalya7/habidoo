@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Habidoo</string>
+    <string name="habit_progress_status_separator">/</string>
+    <string name="habit_progress_status_label_suffix">days</string>
 </resources>

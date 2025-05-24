@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Habit approval status icon tint colors -->
+    <color name="pending_status_tint">#FFD600</color>
+    <color name="approved_status_tint">#76FF03</color>
+    <color name="rejected_status_tint">#FF3D00</color>
+
 </resources>
