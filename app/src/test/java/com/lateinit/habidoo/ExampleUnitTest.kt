@@ -1,4 +1,4 @@
-package com.colearn.habidoo
+package com.lateinit.habidoo
 
 import org.junit.Test
 

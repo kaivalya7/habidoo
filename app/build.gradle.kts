@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.colearn.habidoo"
+    namespace = "com.lateinit.habidoo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.colearn.habidoo"
+        applicationId = "com.lateinit.habidoo"
         minSdk = 29
         targetSdk = 35
         versionCode = 1
