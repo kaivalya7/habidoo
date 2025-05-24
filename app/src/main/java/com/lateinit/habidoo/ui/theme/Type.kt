@@ -1,4 +1,4 @@
-package com.colearn.habidoo.ui.theme
+package com.lateinit.habidoo.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
